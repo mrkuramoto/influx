@@ -1,3 +1,5 @@
+*A Game Change Obsidian Plugin*
+
 The Power of Influx:
 
 Daily notes and backlinks are compelling, and the more I use Obsidian, the better it becomes.
