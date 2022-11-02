@@ -1,21 +1,24 @@
-![Obsidian Influx logo](https://user-images.githubusercontent.com/6455628/178807529-785b29cd-b1d7-4586-99de-5b4411d8fd17.png)
+The Power of Influx:
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/jensmtg/influx?style=for-the-badge&sort=semver)
+Daily notes and backlinks are compelling, and the more I use Obsidian, the better it becomes.
 
-Similar to the *backlinks* core plugin for [Obsidian](https://obsidian.md/), but made to display relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level indentation).
+The only "but" using Obsidian is how it returns the information from the backlink. I always heard it is due to a natural limitation: Obsidian focuses on a page, and Roam Research on a block.
 
-![screencap](https://user-images.githubusercontent.com/6455628/196566154-404086ad-9a6c-49b0-bb5c-f7335090e2fb.png)
+Then Logseq appears and, accessing the same Obsidian database, returns information like Roam Research.
 
-### Suggested usage pattern: 
-(Or: How to get the most out of this plugin.)
+I couldn't believe it when I, by chance, found **Influx**, a game-change plug-in for Obsidian.
 
-* Information should mainly be written in daily (or Zettelkasten-ish) notes. Topical notes will then mainly be aggregates of clippings from daily notes.
-* Notes should be taken hierarchically, in the form of bullet lists/*bullet journaling*. This helps keep clippings terse and relevant.
-* Links should be used as the only organizing principle in the vault - forgo use of tags and files/folders. This helps with completeness; the plugin only considers links when aggregating.
+The picture below shows how Obsidian returns information from a Daily Note backlink.
 
-### Frequently asked questions (FAQ)
+![Inlux_01](https://user-images.githubusercontent.com/64651477/199532835-edacb1b1-e500-439a-a45c-650cd6dd5c56.jpg)
 
-* Q: Is it intentional that the plugin is visible in live preview, but not reading view?
-  * A: Yes, in the sense that Obsidian currently cannot add widgets to reading view in the same way as live preview (through code mirror extensions.)
-* Q; Why can't I see the Influx component in some pages?
-  * A: As of version 2, Influx will by default not be shown on pages with no inbound mentions.
+
+and this is the **Power of Influx plug-in**:
+
+![Inlux_02](https://user-images.githubusercontent.com/64651477/199532864-d6a533e7-e8ab-4a40-8ec8-fef9c2ba0e34.jpg)
+
+
+The way Obsidian returns the backlinks information is almost useless for my usage, but **Influx** has changed everything.
+
+*This limitation of Obsidian, for sure, **demotivates users to migrate** from Roam, Logseq, and other programs to Obsidian because those programs work based on Daily Notes with blocks, bullets, and sub-bullets.*
+
