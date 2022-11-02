@@ -1,4 +1,4 @@
-### **A Game Change Obsidian Plugin**
+## **A Game Change Obsidian Plugin**
 
 The Power of Influx:
 
